@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "express": "^4.12.3",
+    "http-proxy": "^1.10.1",
+    "underscore": "^1.8.3"
+  }
+}
